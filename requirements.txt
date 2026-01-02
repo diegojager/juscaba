@@ -1,0 +1,8 @@
+playwright==1.48.0
+pandas==2.2.2
+openpyxl==3.1.5
+beautifulsoup4==4.12.3
+
+# cuit Paula 27226535530
+# PWD Papafrita#01
+
